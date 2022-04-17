@@ -11,6 +11,7 @@ This is My Source Code for my golden times website, If You Want To use this code
 - CSS
 - Bootstrap
 - Javascript
+- Gsap
 
 ## LICENSE
 
