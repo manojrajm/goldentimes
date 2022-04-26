@@ -10,6 +10,5 @@ elementsend.addEventListener("click", (evt) => {
     const url = `mailto:${toemail}?subject=Watch App&body=${msg}`;
     const encoded = encodeURI(url);
     window.location.href = encoded;
-    console.log(url);
     console.log(encoded);
 });
